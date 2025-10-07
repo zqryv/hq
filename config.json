@@ -85,10 +85,6 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
-    "baidu": {
-        api: "https://api.apibdzy.com/api.php/provide/vod",
-        name: "百度云资源"
-      },
     "iqiyi": {
       "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
       "name": "iqiyi资源"
@@ -100,7 +96,6 @@
     "testSource": {
       "api": "https://www.example.com/api.php/provide/vod",
       "name": "空内容测试源"
-      adult: true
-    },
+      },
   }
 }
