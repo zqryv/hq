@@ -363,7 +363,7 @@
         "api_73": {
             "name": "爱短剧",
             "api": "http://api.haiwaikan.com/v1/vod",
-            "detail": "https://api.haiwaikan.com
+            "detail": "https://api.haiwaikan.com"
         },
 "api_74": {
             "name": "快车资源",
