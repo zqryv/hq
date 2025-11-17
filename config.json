@@ -281,6 +281,26 @@
       "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
       "detail": "https://jyzyapi.com"
     },
+    "api_57": {
+      "name": "閃電资源",
+      "api": "https://sdzyapi.com/api.php/provide/vod",
+      "detail": "https://sdzyapi.com"
+    },
+    "api_58": {
+      "name": "非凡资源1",
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "detail": "https://cj.ffzyapi.com"
+    },
+    "api_59": {
+      "name": "非凡影视2",
+      "api": "https://api.ffzyapi.com/api.php/provide/vod",
+      "detail": "http://api.ffzyapi.com"
+    },
+    "api_60": {
+      "name": "飘零资源",
+      "api": "https://p2100.net/api.php/provide/vod",
+      "detail": "https://p2100.net"
+    },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "name": "黑木耳",
