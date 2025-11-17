@@ -251,51 +251,6 @@
       "api": "https://cj.lzcaiji.com/api.php/provide/vod/at/xml/",
       "detail": "https://cj.lzcaiji.com"
     },
-    "api_51": {
-      "name": "量子资源4"
-      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
-      "detail": "https://cj.lziapi.com"
-    },
-    "api_52": {
-      "name": "金鹰资源1",
-      "api": "https://jinyingzy.com/api.php/provide/vod",
-      "detail": "https://jinyingzy.com"
-    },
-    "api_53": {
-      "name": "金鹰资源2",
-      "api": "https://jyzyapi.com/api.php/provide/vod",
-      "detail": "https://jyzyapi.com"
-    },
-    "api_54": {
-      "name": "金鹰资源3",
-      "api": "https://jyzyapi.com/provide/vod",
-      "detail": "https://jinyingzy.com"
-    },
-    "api_55": {
-      "name": "金鹰资源4",
-      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
-      "detail": "https://jyzyapi.com"
-    },
-    "api_56": {
-      "name": "閃電资源",
-      "api": "https://sdzyapi.com/api.php/provide/vod",
-      "detail": "https://sdzyapi.com"
-    },
-    "api_57": {
-      "name": "非凡资源1",
-      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
-      "detail": "https://cj.ffzyapi.com"
-    },
-    "api_58": {
-      "name": "非凡影视2",
-      "api": "https://api.ffzyapi.com/api.php/provide/vod",
-      "detail": "http://api.ffzyapi.com"
-    },
-    "api_59": {
-      "name": "飘零资源",
-      "api": "https://p2100.net/api.php/provide/vod",
-      "detail": "https://p2100.net"
-    },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "name": "黑木耳",
