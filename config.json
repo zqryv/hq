@@ -176,6 +176,31 @@
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "detail": "http://caiji.dyttzyapi.com"
     },
+    "api_36": {
+      "name": "百度云资源",
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "detail": "https://api.apibdzy.com"
+    },
+    "api_37": {
+      "name": "索尼资源1",
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "detail": "https://suoniapi.com"
+    },
+    "api_38": {
+      "name": "索尼资源2",
+      "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
+      "detail": "https://xsd.sdzyapi.com"
+    },
+    "api_39": {
+      "name": "红牛资源1",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "detail": "https://www.hongniuzy2.com"
+    },
+    "api_40": {
+      "name": "红牛资源2",
+      "api": "https://www.hongniuzy3.com/api.php/provide/vod",
+      "detail": "https://www.hongniuzy3.com"
+    },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "name": "黑木耳",
