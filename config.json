@@ -301,52 +301,52 @@
       "api": "https://p2100.net/api.php/provide/vod",
       "detail": "https://p2100.net"
     },
-    "api_60": {
+    "api_61": {
       "name": "魔爪资源",
       "api": "https://mozhuazy.com/api.php/provide/vod",
       "detail": "https://mozhuazy.com"
     },
-    "api_61": {
+    "api_62": {
       "name": "魔都动漫",
       "api": "https://caiji.moduapi.cc/api.php/provide/vod",
       "detail": "https://caiji.moduapi.cc"
     },
-    "api_62": {
+    "api_63": {
       "name": "魔都资源",
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "detail": "https://www.mdzyapi.com"
     },
-    "api_63": {
+    "api_64": {
       "name": "黑木耳",
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "detail": "https://json.heimuer.xyz"
     },
-    "api_64": {
+    "api_65": {
       "name": "黑木耳点播",
       "api": "https://json02.heimuer.xyz/api.php/provide/vod",
       "detail": "https://json02.heimuer.xyz"
     },
-    "api_65": {
+    "api_66": {
       "name": "韩剧资源",
       "api": "https://www.77hanju.com/api.php/provide/vod/",
       "detail": "https://www.77hanju.com"
     },
-    "api_66": {
+    "api_67": {
       "name": "饭团影视",
       "api": "https://www.fantuan.tv/api.php/provide/vod/",
       "detail": "https://www.fantuan.tv"
     },
-    "api_67": {
+    "api_68": {
       "name": "建安资源",
       "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod",
       "detail": "http://154.219.117.232:9981"
     },
-    "api_68": {
+    "api_69": {
       "name": "山海资源",
       "api": "https://zy.sh0o.cn/api.php/provide/vod",
       "detail": "https://zy.sh0o.cn"
     },
-    "api_69": {
+    "api_70": {
       "name": "七七影视",
       "api": "https://www.qiqidys.com/api.php/provide/vod/",
       "detail": "https://www.qiqidys.com"
