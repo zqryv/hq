@@ -151,6 +151,31 @@
       "api": "http://zuidazy.me/api.php/provide/vod",
       "detail": "http://zuidazy.me"
     },
+    "api_31": {
+      "name": "最大资源",
+      "api": "https://api.zuidapi.com/api.php/provide/vod",
+      "detail": "https://api.zuidapi.com"
+    },
+    "api_32": {
+      "name": "樱花资源",
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+      "detail": "https://m3u8.apiyhzy.com"
+    },
+    "api_33": {
+      "name": "步步高资源",
+      "api": "https://api.yparse.com/api/json",
+      "detail": "https://api.yparse.com"
+    },
+    "api_34": {
+      "name": "牛牛点播",
+      "api": "https://api.niuniuzy.me/api.php/provide/vod",
+      "detail": "https://api.niuniuzy.me"
+    },
+    "api_35": {
+      "name": "电影天堂资源",
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "detail": "http://caiji.dyttzyapi.com"
+    },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "name": "黑木耳",
