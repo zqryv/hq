@@ -16,6 +16,11 @@
       "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
       "detail": "https://api.yzzy-api.com"
     },
+    "api_4": {
+      "name": "如意资源1",
+      "api": "https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod",
+      "detail": "https://jjpz.hafrey.dpdns.org"
+    },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "name": "黑木耳",
