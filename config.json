@@ -631,6 +631,16 @@
       "api": "https://siwazyw.tv/api.php/provide/vod/at/json",
       "detail": "https:///siwazyw.tv"
     },
+    "api_127": {
+      "name": "提米资源",
+      "api": "https://vipcj.timizy.top/api.php/provide/vod/",
+      "detail": "https://tvipcj.timizy.top"
+    },
+    "api_128": {
+      "name": "豆豆资源",
+      "api": "https://api.douapi.cc/api.php/provide/vod",
+      "detail": "https://api.douapi.cc"
+    },
     "ruyi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
