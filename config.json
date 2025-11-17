@@ -541,6 +541,36 @@
       "api": "https://apilj.com/api.php/provide/vod",
       "detail": "https://apilj.com"
     },
+     "api_109": {
+      "name": "香奶儿资源",
+      "api": "https://www.gdlsp.com/api/json.php",
+      "detail": "https://www.gdlsp.com"
+    },
+    "api_110": {
+      "name": "鲨鱼资源",
+      "api": "https://shayuapi.com/api.php/provide/vod",
+      "detail": "https://shayuapi.com"
+    },
+    "api_111": {
+      "name": "换给微资源",
+      "api": "https://www.pgxdy.com/api/json.php",
+      "detail": "https://www.pgxdy.com"
+    },
+    "api_112": {
+      "name": "优优资源",
+      "api": "https://www.yyzywcj.com/api.php/provide/vod",
+      "detail": "https://www.yyzywcj.com"
+    },
+    "api_113": {
+      "name": "醉瑟资源",
+      "api": "https://api.zuiseapi.com/api.php/provide/vod",
+      "detail": "https://api.zuiseapi.com" 
+    }, 
+    "api_114": {
+      "name": "达奈资源",
+      "api": "https://apidanaizi.com/api.php/provide/vod",
+      "detail": "https://apidanaizi.com" 
+    },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "name": "黑木耳",
