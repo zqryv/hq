@@ -12,7 +12,7 @@
       "detail": "https://api.1080zyku.com"
     },
     "api_3": {
-      "name": "1080资源3"
+      "name": "1080资源3",
       "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
       "detail": "https://api.yzzy-api.com"
     },
