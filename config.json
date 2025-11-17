@@ -31,6 +31,26 @@
       "api": "https://360zy.com/api.php/provide/vod",
       "detail": "https://360zy.com"
     },
+    "api_7": {
+      "name": "CK资源",
+      "api": "https://ckzy.me/api.php/provide/vod",
+      "detail": "https://ckzy.me"
+    },
+    "api_8": {
+      "name": "优酷资源1",
+      "api": "https://api.ukuapi.com/api.php/provide/vod",
+      "detail": "https://api.ukuapi.com"
+    },
+    "api_9": {
+      "name": "优酷资源2",
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "detail": "https://api.ukuapi88.com"
+    },
+    "api_10": {
+      "name": "优酷资源3",
+      "api": "https://jjpz.hafrey.dpdns.org/?url=https://api.ukuapi88.com/api.php/provide/vod",
+      "detail": "https://jjpz.hafrey.dpdns.org"
+    },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "name": "黑木耳",
