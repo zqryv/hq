@@ -261,6 +261,26 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "detail": "https://cj.lziapi.com"
     },
+    "api_53": {
+      "name": "金鹰资源1",
+      "api": "https://jinyingzy.com/api.php/provide/vod",
+      "detail": "https://jinyingzy.com"
+    },
+    "api_54": {
+      "name": "金鹰资源2",
+      "api": "https://jyzyapi.com/api.php/provide/vod",
+      "detail": "https://jyzyapi.com"
+    },
+    "api_55": {
+      "name": "金鹰资源3",
+      "api": "https://jyzyapi.com/provide/vod",
+      "detail": "https://jinyingzy.com"
+    },
+    "api_56": {
+      "name": "金鹰资源4",
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
+      "detail": "https://jyzyapi.com"
+    },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "name": "黑木耳",
