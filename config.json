@@ -626,6 +626,11 @@
       "api": "https://dadiapi.com/feifei2",
       "detail": "https:///dadiapi.com"
     },
+    "api_126": {
+      "name": "四娃资源",
+      "api": "https://siwazyw.tv/api.php/provide/vod/at/json",
+      "detail": "https:///siwazyw.tv"
+    },
     "ruyi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
