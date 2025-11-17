@@ -165,7 +165,8 @@
       "name": "桃花资源2",
       "api": "https://thzy1.me/api.php/provide/vod",
       "detail": "https://thzy1.me"
-    },"api_34": {
+    },
+    "api_34": {
       "name": "步步高资源",
       "api": "https://api.yparse.com/api/json",
       "detail": "https://api.yparse.com"
@@ -225,15 +226,40 @@
       "api": "https://dbzy.tv/api.php/provide/vod",
       "detail": "https://dbzy.tv"
     },
-    "api_46": {
+    "api_47": {
       "name": "豆瓣资源3",
       "api": "https://caiji.dbzy5.com/api.php/provide/vod",
       "detail": "https://caiji.dbzy5.com"
     },
-    "api_46": {
+    "api_48": {
       "name": "豪华资源",
       "api": "https://hhzyapi.com/api.php/provide/vod",
       "detail": "https://hhzyapi.com"
+    },
+    "api_49": {
+      "name": "速博资源",
+      "api": "https://subocaiji.com/api.php/provide/vod",
+      "detail": "https://subocaiji.com"
+    },
+    "api_50": {
+      "name": "量子资源1",
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "detail": "https://cj.lziapi.com"
+    },
+    "api_51": {
+      "name": "量子资源2"
+      "api": "https://cj.lzcaiji.com/api.php/provide/vod",
+      "detail": "https://cj.lzcaiji.com"
+    },
+    "api_52": {
+      "name": "量子资源3"
+      "api": "https://cj.lzcaiji.com/api.php/provide/vod/at/xml/",
+      "detail": "https://cj.lzcaiji.com"
+    },
+    "api_53": {
+      "name": "量子资源4"
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "detail": "https://cj.lziapi.com"
     },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
