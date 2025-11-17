@@ -446,6 +446,56 @@
       "api": "https://api.tiankongapi.com/api.php/provide/vod/",
       "detail": "https://api.tiankongapi.com"
     },
+    "api_89": {
+      "name": "映迷影院",
+      "api": "https://www.inmi.app/api.php/provide/vod/",
+      "detail": "https://www.inmi.app"
+    },
+    "api_90": {
+      "name": "麻豆",
+      "api": "https://91md.me/api.php/provide/vod",
+      "detail": "https://91md.me"
+    },
+    "api_91": {
+      "name": "AIvin",
+      "api": "http://lbapiby.com/api.php/provide/vod",
+      "detail": "http://lbapiby.com"
+    },
+    "api_92": {
+      "name": "JKUN资源",
+      "api": "https://jkunzyapi.com/api.php/provide/vod",
+      "detail": "https://jkunzyapi.com"
+    },
+    "api_93": {
+      "name": "souav资源",
+      "api": "https://api.souavzy.vip/api.php/provide/vod",
+      "detail": "https://api.souavzy.vip"
+    },
+    "api_94": {
+      "name": "乐播资源",
+      "api": "https://lbapi9.com/api.php/provide/vod",
+      "detail": "https://lbapi9.com"
+    },
+    "api_95": {
+      "name": "奥斯卡资源",
+      "api": "https://aosikazy.com/api.php/provide/vod",
+      "detail": "https://aosikazy.com"
+    },
+    "api_96": {
+      "name": "奶香香",
+      "api": "https://Naixxzy.com/api.php/provide/vod",
+      "detail": "https://Naixxzy.com"
+    },
+    "api_97": {
+      "name": "森林资源",
+      "api": "https://slapibf.com/api.php/provide/vod",
+      "detail": "https://slapibf.com"
+    },
+    "api_98": {
+      "name": "银水集资源",
+      "api": "https://www.xrbsp.com/api/json.php",
+      "detail": "https://www.xrbsp.com"
+    },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "name": "黑木耳",
