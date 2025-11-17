@@ -51,6 +51,31 @@
       "api": "https://jjpz.hafrey.dpdns.org/?url=https://api.ukuapi88.com/api.php/provide/vod",
       "detail": "https://jjpz.hafrey.dpdns.org"
     },
+    "api_11": {
+      "name": "优酷资源4",
+      "api": "https://jjpz.hafrey.dpdns.org/?url=https://api.ukuapi.com/api.php/provide/vod",
+      "detail": "https://jjpz.hafrey.dpdns.org"
+    },
+    "api_12": {
+      "name": "爱奇艺资源1",
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "detail": "https://iqiyizyapi.com"
+    },
+    "api_13": {
+      "name": "爱奇艺资源2",
+      "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
+      "detail": "https://www.iqiyizyapi.com"
+    },
+    "api_14": {
+      "name": "ikun资源",
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "detail": "https://ikunzyapi.com"
+    },
+    "api_15": {
+      "name": "丫丫点播",
+      "api": "https://cj.yayazy.net/api.php/provide/vod",
+      "detail": "https://cj.yayazy.net"
+    },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "name": "黑木耳",
