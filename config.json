@@ -157,12 +157,12 @@
       "detail": "https://api.zuidapi.com"
     },
     "api_32": {
-      "name": "樱花资源",
+      "name": "樱花资源1",
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
       "detail": "https://m3u8.apiyhzy.com"
     },
     "api_33": {
-      "name": "桃花资源",
+      "name": "桃花资源2",
       "api": "https://thzy1.me/api.php/provide/vod",
       "detail": "https://thzy1.me"
     },"api_34": {
