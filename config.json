@@ -11,6 +11,11 @@
       "api": "https://api.1080zyku.com/inc/apijson.php/",
       "detail": "https://api.1080zyku.com"
     },
+    "api_3": {
+      "name": "1080资源3"
+      "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
+      "detail": "api.yzzy-api.com"
+    },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "name": "黑木耳",
