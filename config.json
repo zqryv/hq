@@ -246,6 +246,21 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "detail": "https://cj.lziapi.com"
     },
+    "api_50": {
+      "name": "量子资源2"
+      "api": "https://cj.lzcaiji.com/api.php/provide/vod",
+      "detail": "https://cj.lzcaiji.com"
+    },
+    "api_51": {
+      "name": "量子资源3"
+      "api": "https://cj.lzcaiji.com/api.php/provide/vod/at/xml/",
+      "detail": "https://cj.lzcaiji.com"
+    },
+    "api_52": {
+      "name": "量子资源4"
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "detail": "https://cj.lziapi.com"
+    },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "name": "黑木耳",
