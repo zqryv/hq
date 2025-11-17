@@ -401,6 +401,51 @@
       "api": "https://api.fczy888.me/api.php/provide/vod",
       "detail": "https://api.fczy888.me"
     },
+    "api_80": {
+      "name": "金马资源",
+      "api": "https://api.jmzy.com/api.php/provide/vod",
+      "detail": "https://api.jmzy.com"
+    },
+    "api_81": {
+      "name": "细胞采集",
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "detail": "https://www.xxibaozyw.com"
+    },
+    "api_82": {
+      "name": "FOX资源",
+      "api": "https://api.foxzyapi.com/api.php/provide/vod/",
+      "detail": "https://api.foxzyapi.com"
+    },
+    "api_83": {
+      "name": "TOM资源",
+      "api": "https://api.tomcaiji.com/api.php/provide/vod/",
+      "detail": "https://api.tomcaiji.com"
+    },
+    "api_84": {
+      "name": "酷点资源",
+      "api": "https://kudianzy.com/api.php/provide/vod/",
+      "detail": "https://kudianzy.com"
+    },
+    "api_85": {
+      "name": "天堂资源",
+      "api": "http://vipmv.cc/api.php/provide/vod/",
+      "detail": "https://vipmv.cc"
+    },
+    "api_86": {
+      "name": "乐视资源",
+      "api": "https://leshizyapi.com/api.php/provide/vod/at/json/",
+      "detail": "https://leshizyapi.com"
+    },
+    "api_87": {
+      "name": "俱全资源",
+      "api": "http://xinxing.juquanweb.top/icciu_api.php/v1.vod",
+      "detail": "https://xinxing.juquanweb.top"
+    },
+    "api_88": {
+      "name": "天空资源",
+      "api": "https://api.tiankongapi.com/api.php/provide/vod/",
+      "detail": "https://api.tiankongapi.com"
+    },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "name": "黑木耳",
