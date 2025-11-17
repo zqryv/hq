@@ -351,6 +351,56 @@
       "api": "https://www.qiqidys.com/api.php/provide/vod/",
       "detail": "https://www.qiqidys.com"
     },
+    "api_71": {
+      "name": "猫眼资源",
+      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "detail": "https://api.maoyanapi.top"
+    },
+    "api_72": {
+      "name": "陶片资源",
+      "api": "https://taopianapi.com/cjapi/sda/vod",
+      "detail": "https://taopianapi.com"
+    },
+    "api_73": {
+      "name": "华为资源",
+      "api": "https://huawei8.live/api.php/provide/vod",
+      "detail": "https:/huawei8.liv"
+    },
+    "api_74": {
+      "name": "爱短剧",
+      "api": "http://api.haiwaikan.com/v1/vod",
+      "detail": "https://api.haiwaikan.com"
+    },
+    "api_75": {
+      "name": "快车资源",
+      "api": "https://caiji.kuaichezy.org/api.php/provide/vod",
+      "detail": "https://caiji.kuaichezy.org"
+    },
+    "api_76": {
+      "name": "极速资源",
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "detail": "https://caiji.kuaichezy.org"
+    },
+    "api_77": {
+      "name": "柚子资源",
+      "api": "https://api.yzzy-api.com/inc/apijson.php",
+      "detail": "https://api.yzzy-api.com"
+    },
+    "api_78": {
+      "name": "明帝影视",
+      "api": "https://ys.md214.cn/api.php/provide/vod/",
+      "detail": "https://ys.md214.cn"
+    },
+    "api_79": {
+      "name": "来米资源",
+      "api": "https://www.laimi.me/api.php/v1.vod",
+      "detail": "https://www.laimi.me" 
+    },
+    "api_80": {
+      "name": "蜂巢片库",
+      "api": "https://api.fczy888.me/api.php/provide/vod",
+      "detail": "https://api.fczy888.me"
+    },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "name": "黑木耳",
