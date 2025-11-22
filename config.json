@@ -1,5 +1,5 @@
 {
-  "cache_time": 7200,
+  "cache_time": 6379,
   "api_site": {
     "api_1": {
       "name": "1080资源1",
